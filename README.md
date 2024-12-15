@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 🌱 About Me:
 
 - I'm a self-taught developer diving into the world of web development, honing my skills in the **MERN stack**.
-- Currently, I'm focused on my new project **"Flex-Mate (Virtual Fitness Coaching)"**, which I'm building from scratch:
+- Currently, I'm focused on my new project **"Instant-Fix"**, which I'm building from scratch:
   - Designing in **Figma** 🎨
   - Creating API documentation in **Postman** 📝
   - Designing the database 🔧
