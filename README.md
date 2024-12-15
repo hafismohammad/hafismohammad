@@ -100,16 +100,7 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats & Streaks:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafis-mohammad&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafis-mohammad&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
----
 
 ### 🔗 Connect with Me:
 
