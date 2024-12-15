@@ -12,7 +12,7 @@
 ### 🌱 About Me:
 
 - I'm a self-taught developer diving into the world of web development, honing my skills in the **MERN stack**.
-- Currently, I'm focused on my new project **"Instant-Fix"**, which I'm building from scratch:
+- Currently, I'm focused on my new project **"Flex-Mate (Virtual Fitness Coaching)"**, which I'm building from scratch:
   - Designing in **Figma** 🎨
   - Creating API documentation in **Postman** 📝
   - Designing the database 🔧
